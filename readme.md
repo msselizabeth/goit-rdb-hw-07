@@ -7,10 +7,10 @@
 ![Task-2](./p_2.png)
 
 ### Task 3
-![Task-3](.)
+![Task-3](./p_3.png)
 
 ### Task 4
-![Task-4](.)
+![Task-4](./p_4.png)
 
 ### Task 5 
-![Task-5](.)
+![Task-5](./p_5.png)
